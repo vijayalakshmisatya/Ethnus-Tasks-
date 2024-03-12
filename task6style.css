@@ -1,0 +1,91 @@
+<style>
+        #r1
+        {
+            border-radius: 10px;
+        }
+
+        td,th {
+          
+            border: 1px solid black;
+            padding: 6px;
+           width: 1050px;
+           border-spacing: 70px;
+            height: 1px;
+            width:30px;
+             border-radius: 25px;
+          
+          
+        }
+        #tab
+        {
+            border-radius: 10px;
+        }
+        .r1
+        {
+            display:flex;
+            justify-content: space-around;
+          flex-basis: auto;
+        }
+
+table.satya{
+      border-collapse: seperate;
+border-spacing: 50px ;
+  padding:10px;
+  
+  
+}
+          .rectangle1
+        {
+            height: 50px;
+            width:100px;
+            border:3px solid;
+            border-color:greenyellow;
+            border-radius: 5px;
+            border-spacing:500px;
+        }
+        .rectangle2
+        {
+            height: 50px;
+            width:100px;
+            border:3px solid;
+            border-color:greenyellow;
+            border-radius: 7px;
+          border-spacing:500px;
+          
+        
+
+        }
+        .rectangle3
+        {
+            height: 50px;
+            width:100px;
+            border:3px solid;
+            border-color:greenyellow;
+            border-radius: 15px;
+        }
+
+        .rectangle5
+        {
+            height: 50px;
+            width:100px;
+            border:3px solid;
+            border-color:greenyellow;
+        }
+        .rectangle7
+{
+            height: 50px;
+            width:100px;
+            border:3px solid;
+            border-color:greenyellow;
+            border-radius: 50%;
+        }
+        .rectangle9
+        {
+            height: 50px;
+            width:100px;
+            border:3px solid;
+            border-color:greenyellow;
+            border-radius: 0 15px 0 15px;
+        }
+
+    </style>

@@ -1,0 +1,66 @@
+<style>
+ul li a{
+    text-decoration: none;
+    border: 1px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 20px;
+    color: blue;
+    margin:0;
+    padding:0;
+    margin-right:50%;
+    
+    
+}
+ul li a:hover{
+    color: purple;
+}
+
+ul li{
+    margin: 10px;
+    background-color: white;
+    margin-right: 65%;
+   
+    display: block;
+        
+        text-decoration: none;
+        padding: 7px;
+}
+
+ul{
+    list-style-type: none;
+    margin-bottom: 350px ;
+    margin-left: 0px;
+    
+}
+   
+body{
+    margin-right: 55%;
+    margin-left: 100px;
+    border: 1px solid;
+    color: rgb(97, 1, 97);
+    
+}
+
+div{
+    text-align: left;
+    margin-bottom: -250px;
+    margin-left: 340px;
+    padding:10px;
+}    
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sd{
+    font-family: "Times New Roman", Times, serif;
+}
+
+/*.inner{
+    margin-top:-508px;
+    margin-left: 120px;
+    margin-right: 120%;
+    
+    
+}*/
+</style>
